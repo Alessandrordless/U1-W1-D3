@@ -36,6 +36,10 @@ p {
   font-family: "Inclusive Sans", sans-serif;
 }
 
+video {
+  width: 100%;
+}
+
 .immagine {
   margin-left: 30%;
   margin-right: 30%;
