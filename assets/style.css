@@ -12,6 +12,10 @@
   padding-top: 0.9%;
 }
 
+picture {
+  width: 95%;
+}
+
 h4 {
   background-color: rgb(243 243 84 / 48%);
   text-align: center;
@@ -38,11 +42,6 @@ p {
 
 video {
   width: 100%;
-}
-
-.immagine {
-  margin-left: 30%;
-  margin-right: 30%;
 }
 
 .immagine img {
