@@ -24,7 +24,9 @@ h4 span {
 }
 
 h1 {
-  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: start;
   font-family: "Inclusive Sans", sans-serif;
 }
 
