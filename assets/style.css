@@ -34,7 +34,8 @@ p {
 }
 
 .immagine {
-  margin: 2% 24%;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 .immagine img {
@@ -55,7 +56,7 @@ p {
 }
 
 #caption {
-  margin: 0px 358px 0 333px;
+  margin: 0px 492px 0 436px;
   border-left: 1px solid black;
   padding-left: 2%;
 }
