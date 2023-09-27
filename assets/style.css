@@ -13,6 +13,7 @@
 }
 
 h4 {
+  background-color: rgb(243 243 84 / 48%);
   text-align: center;
   font-size: 1em;
   color: rgb(77, 136, 136);
@@ -58,14 +59,15 @@ p {
 }
 
 #caption {
-  margin: 0px 480px 0 384px;
-  border-left: 1px solid black;
-  padding-left: 2%;
+  margin: 1px 480px 0 447px;
+  border-left: 1px solid #ffeb3b;
+  padding-left: 1%;
 }
 
 #caption h3 {
   color: brown;
   margin-bottom: 0;
+  margin-left: 0;
 }
 
 #content {
@@ -78,6 +80,19 @@ p {
   margin-top: 10%;
   border-bottom: 1px solid rgb(16 119 119);
   padding-bottom: 5%;
+  margin-left: 10%;
+}
+
+.focaccia-ingredient {
+  margin-left: 10%;
+}
+
+h3 {
+  margin-left: 10%;
+}
+
+.topping-ingredient {
+  margin-left: 10%;
 }
 
 ul {
@@ -89,23 +104,27 @@ li {
 }
 
 #sauce {
-  margin-top: 10%;
+  margin-top: 5%;
 }
 
 #method h2 {
-  margin-bottom: 10%;
-  border-bottom: 1px solid rgb(16 119 119);
+  margin-left: 10%;
+  margin-bottom: 1%;
   padding-bottom: 5%;
   font-family: "Inclusive Sans", sans-serif;
 }
 
-#method ol {
+#method li {
   margin-top: 1%;
 }
 
+ol {
+  margin-left: 10%;
+}
+
 dt {
-  margin-top: 5%;
-  margin-left: 4%;
+  margin-top: 2%;
+  margin-left: 1%;
   font-family: "Inclusive Sans", sans-serif;
   font-weight: 400;
 }
@@ -120,5 +139,6 @@ footer {
 }
 
 footer p {
+  margin-left: 11%;
   text-align: start;
 }
