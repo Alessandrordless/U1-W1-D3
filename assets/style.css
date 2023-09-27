@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Inclusive+Sans&display=swap");
+
+.logo {
+  border-bottom: 1px solid rgb(221 221 20);
+}
+
+.img-logo {
+  display: block;
+  margin-inline: auto;
+  margin-bottom: 1%;
+  width: 200px;
+  padding-top: 0.9%;
+}
+
+h4 {
+  text-align: center;
+  font-size: 1em;
+  color: rgb(77, 136, 136);
+  font-family: "Inclusive Sans", sans-serif;
+}
+
+h4 span {
+  color: rgb(16 119 119);
+}
+
+h1 {
+  text-align: center;
+  font-family: "Inclusive Sans", sans-serif;
+}
+
+p {
+  text-align: center;
+  font-family: "Inclusive Sans", sans-serif;
+}
+
+.immagine {
+  margin: 2% 24%;
+}
+
+.immagine img {
+  display: block;
+  margin-inline: auto;
+  width: 100%;
+}
+
+.immagine p {
+  text-align: start;
+  display: block;
+}
+
+.author p {
+  text-align: center;
+  font-family: "Inclusive Sans", sans-serif;
+  color: grey;
+}
+
+#caption {
+  margin: 0px 358px 0 333px;
+  border-left: 1px solid black;
+  padding-left: 2%;
+}
+
+#caption h3 {
+  color: brown;
+  margin-bottom: 0;
+}
+
+#content {
+  margin: 0 370px;
+}
+
+#ingredient h2 {
+  text-align: start;
+  font-family: "Inclusive Sans", sans-serif;
+  margin-top: 10%;
+  border-bottom: 1px solid rgb(16 119 119);
+  padding-bottom: 5%;
+}
+
+ul {
+  font-family: "Inclusive Sans", sans-serif;
+}
+
+li {
+  margin: 15px 0 0 5px;
+}
+
+#sauce {
+  margin-top: 10%;
+}
+
+#method h2 {
+  margin-bottom: 10%;
+  border-bottom: 1px solid rgb(16 119 119);
+  padding-bottom: 5%;
+  font-family: "Inclusive Sans", sans-serif;
+}
+
+#method ol {
+  margin-top: 1%;
+}
+
+dt {
+  margin-top: 5%;
+  margin-left: 4%;
+  font-family: "Inclusive Sans", sans-serif;
+  font-weight: 400;
+}
+
+a {
+  color: rgb(16 119 119);
+  font-family: "Inclusive Sans", sans-serif;
+}
+
+footer {
+  margin: 0 357px;
+}
+
+footer p {
+  text-align: start;
+}
