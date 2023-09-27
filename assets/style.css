@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Inclusive+Sans&display=swap");
 
+main {
+  width: 60%;
+  margin: 0 20%;
+}
+
 .logo {
   border-bottom: 1px solid rgb(221 221 20);
 }
@@ -29,8 +34,6 @@ h4 span {
 }
 
 h1 {
-  margin-left: 30%;
-  margin-right: 30%;
   text-align: start;
   font-family: "Inclusive Sans", sans-serif;
 }
@@ -62,7 +65,6 @@ video {
 }
 
 #caption {
-  margin: 1px 480px 0 447px;
   border-left: 1px solid #ffeb3b;
   padding-left: 1%;
 }
@@ -73,29 +75,21 @@ video {
   margin-left: 0;
 }
 
-#content {
-  margin: 0 370px;
-}
-
 #ingredient h2 {
   text-align: start;
   font-family: "Inclusive Sans", sans-serif;
   margin-top: 10%;
   border-bottom: 1px solid rgb(16 119 119);
   padding-bottom: 5%;
-  margin-left: 10%;
 }
 
 .focaccia-ingredient {
-  margin-left: 10%;
 }
 
 h3 {
-  margin-left: 10%;
 }
 
 .topping-ingredient {
-  margin-left: 10%;
 }
 
 ul {
@@ -111,23 +105,18 @@ li {
 }
 
 #method h2 {
-  margin-left: 10%;
-  margin-bottom: 1%;
-  padding-bottom: 5%;
+  border-bottom: 1px solid lightblue;
+  padding-bottom: 2%;
   font-family: "Inclusive Sans", sans-serif;
 }
-
 #method li {
   margin-top: 1%;
 }
 
 ol {
-  margin-left: 10%;
 }
 
 dt {
-  margin-top: 2%;
-  margin-left: 1%;
   font-family: "Inclusive Sans", sans-serif;
   font-weight: 400;
 }
@@ -138,10 +127,9 @@ a {
 }
 
 footer {
-  margin: 0 357px;
 }
 
 footer p {
-  margin-left: 11%;
+  margin-left: 20%;
   text-align: start;
 }
