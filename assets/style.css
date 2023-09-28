@@ -21,6 +21,9 @@ picture {
   width: 95%;
 }
 
+video {
+  border-radius: 2%;
+}
 h4 {
   background-color: rgb(243 243 84 / 48%);
   text-align: center;
